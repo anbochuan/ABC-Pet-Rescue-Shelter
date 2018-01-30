@@ -1,0 +1,13 @@
+1:BochuanAn:cat:persian:5-years-old:male:brown:otherCats
+2:YangAn:dog:GoldenRetriever:12months:female:golden:children
+3:BochuanAn:dog:GoldenRetriever:12months:female:golden:children
+4:AnXiaoYang:dog:pug:10-years-old:female:gray:otherDogs
+5:AnXiaoYang:cat:shorthair:10-years-old:female:black:otherCats
+6:BochuanAn:dog:labrador:5-years-old:female:brown:children
+7:AnXiaoYang:dog:chihuahua:12months:female:golden:children
+8:AnXiaoYang:dog:labrador:12months:female:golden:children
+9:AnXiaoYang:cat:mix:10-years-old:female:black:otherCats
+10:BochuanAn:cat:ragdoll:10-years-old:female:black:otherCats
+11:BochuanAn:dog:chihuahua:10-years-old:female:gray:otherDogs
+12:BochuanAn:dog:labrador:10-years-old:female:gray:otherDogs
+13:anbochuan:cat:mix:5months:male:gray:otherCats
